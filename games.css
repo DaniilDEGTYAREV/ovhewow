@@ -1,0 +1,111 @@
+.flex{
+	display: flex;
+}
+.skyblock{
+	background: #000;
+	height: 80px;
+	padding-top: 30px;
+	padding-left: 100px;
+	box-sizing: border-box;
+}
+.a{
+	margin-left: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+}
+.div_sign{
+	margin-left: 400px;
+}
+.reg{
+	margin-left: 500px;
+	font-size: 20px;
+	
+}
+.main{
+	background: grey;
+	height: 400px;
+	padding-top: 20px;
+	padding-left: 130px;
+	box-sizing: border-box;
+}
+.img{
+	margin-left: 15px;
+	width: 250px;
+	height: 300px;
+	
+}
+.div{
+	border-radius: 70px;
+	background: blue;
+	height: 360px;
+	width: 300px;
+	padding-top: 20px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.div1{
+	border-radius: 70px;
+	background: white;
+	height: 360px;
+	width: 300px;
+	margin-left: 200px;
+	padding-top: 20px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.div2{
+	border-radius: 70px;
+	background: green;
+	height: 360px;
+	width: 300px;
+	margin-left: 200px;
+	padding-top: 20px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.but_block{
+	height: 262px;
+	background: black;
+	padding-top: 30px;
+	box-sizing: border-box;
+	padding-left: 50px;
+}
+.but_p{
+	color: white;
+	font-size: 30px;
+	font-family: Arial;
+}
+.a_reg{
+	text-decoration: none;
+	color: white;
+	font-family: Arial;
+}
+.logo_img{
+	
+	width: 140px;
+	height: 70px;
+}
+.logo{
+	margin-top: -25px;
+	margin-left: -70px;
+}
+
+.video_over{
+	width: 600px;
+	height: 400px;
+	margin-left: 100px;
+}
+.video_world{
+	width: 600px;
+	height: 400px;
+	margin-left: 50px;
+}
+.video_main{
+	background: grey;
+	height: 500px;
+	padding-left: 40px;
+	padding-top: 50px;
+	box-sizing: border-box;
+}

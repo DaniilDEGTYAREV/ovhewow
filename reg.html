@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="reg.css">
+	<title></title>
+</head>
+<body>
+	<div class="div1 flex">
+		<p class="p">
+			Регистрация -
+		</p>
+		<a href="games.html" class="a">
+			Вернуться
+		</a>
+	</div>
+	
+		
+		<div class="logo"/>
+			<h3 class="h3">
+				Вы зарегистрированы!
+			</h3>
+			
+		</div>
+		
+	<div class="div">
+		<input class="inp">
+
+		<input type="password" class="inp1">
+		<button class="btn">
+			Нажмите
+		</button>
+		
+	</div>
+	<h3 class="h3_1">
+				
+		</h3>
+	<script type="text/javascript">
+		let btn = document.querySelector(".btn");
+		let logo = document.querySelector(".logo");
+		let h3 = document.querySelector(".h3");
+		let inp = document.querySelector(".inp");
+		let inp1 = document.querySelector(".inp1");
+		let h3_1 = document.querySelector(".h3_1");
+				btn.onclick = function(){
+					if(inp.value == 'ivan' && inp1.value == 'goga'){
+						
+						
+					
+						h3.style.display = 'block'
+						logo.style.display = 'block'
+
+				
+					} else{
+						logo.style.display = 'none'
+						h3.style.display = 'none'
+						alert('Вы не зарегистрированы!')
+						
+					}
+				}	
+				
+				
+	</script>
+</body>
+</html>
